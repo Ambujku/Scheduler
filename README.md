@@ -13,3 +13,5 @@ commands: python manage.py crontab add
 	  python manage.py crontab remove
 
 settings.py: Viewer can view in settings.py CRONJOBS = [ ('* * * * *', 'scheduled task') ]
+
+#Code is not under maintenance.
